@@ -30,7 +30,7 @@ const App = () => {
                             Hello everyone This is a photo album and I'm trying to make this sentence as loon as possible so we can see how long how does it look like on the screen
                         </Typography>
                         <div className={classes.buttons}>
-                            <Grid container spacing={2} justify="center">
+                            <Grid container spacing={2} justifyContent="center">
                                 <Grid item>
                                     <Button variant="contained" color="primary">
                                         See my photos
